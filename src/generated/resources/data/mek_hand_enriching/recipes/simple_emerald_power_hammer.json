@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:storage_blocks/emerald"
+    },
+    "%": {
+      "tag": "minecraft:logs_that_burn"
+    },
+    "&": {
+      "item": "mek_hand_enriching:diamond_power_hammer"
+    }
+  },
+  "pattern": [
+    " #%",
+    " &#",
+    "%  "
+  ],
+  "result": {
+    "item": "mek_hand_enriching:emerald_power_hammer"
+  },
+  "show_notification": true
+}

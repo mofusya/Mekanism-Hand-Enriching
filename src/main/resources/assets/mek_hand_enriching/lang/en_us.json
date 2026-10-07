@@ -1,0 +1,12 @@
+{
+  "creativetab.mek_hand_enriching.main": "Mekanism: Hand Enriching",
+
+  "item.mek_hand_enriching.wooden_power_hammer": "Wooden Power Hammer",
+  "item.mek_hand_enriching.stone_power_hammer": "Stone Power Hammer",
+  "item.mek_hand_enriching.iron_power_hammer": "Iron Power Hammer",
+  "item.mek_hand_enriching.diamond_power_hammer": "Diamond Power Hammer",
+  "item.mek_hand_enriching.emerald_power_hammer": "Emerald Power Hammer",
+  "item.mek_hand_enriching.obsidian_power_hammer": "Obsidian Power Hammer",
+
+  "item.mek_hand_enriching.power_hammer.desc": "Set your ingredient in your offhand and \"click\" to enrich."
+}

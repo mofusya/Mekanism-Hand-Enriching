@@ -1,0 +1,10 @@
+{
+  "item.mek_hand_enriching.wooden_power_hammer": "木のパワーハンマー",
+  "item.mek_hand_enriching.stone_power_hammer": "石のパワーハンマー",
+  "item.mek_hand_enriching.iron_power_hammer": "鉄のパワーハンマー",
+  "item.mek_hand_enriching.diamond_power_hammer": "ダイヤモンドののパワーハンマー",
+  "item.mek_hand_enriching.emerald_power_hammer": "エメラルドのパワーハンマー",
+  "item.mek_hand_enriching.obsidian_power_hammer": "黒曜石のパワーハンマー",
+
+  "item.mek_hand_enriching.power_hammer.desc": "オフハンドに原石等を持って叩いてみると、、？"
+}

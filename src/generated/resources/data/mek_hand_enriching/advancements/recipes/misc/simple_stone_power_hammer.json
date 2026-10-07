@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mek_hand_enriching:simple_stone_power_hammer"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wooden_power_hammer": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mek_hand_enriching:wooden_power_hammer"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_wooden_power_hammer",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mek_hand_enriching:simple_stone_power_hammer"
+    ]
+  },
+  "sends_telemetry_event": false
+}

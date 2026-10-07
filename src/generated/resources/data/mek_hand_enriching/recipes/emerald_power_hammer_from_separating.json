@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mek_hand_enriching:obsidian_power_hammer"
+    }
+  ],
+  "result": {
+    "item": "mek_hand_enriching:emerald_power_hammer"
+  }
+}

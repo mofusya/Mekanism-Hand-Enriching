@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_emerald_power_hammer": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mek_hand_enriching:emerald_power_hammer"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mek_hand_enriching:diamond_power_hammer_from_separating"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_emerald_power_hammer",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mek_hand_enriching:diamond_power_hammer_from_separating"
+    ]
+  },
+  "sends_telemetry_event": false
+}
