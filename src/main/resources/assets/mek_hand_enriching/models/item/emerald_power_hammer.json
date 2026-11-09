@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mek_hand_enriching:item/emerald_power_hammer"
+  }
+}
